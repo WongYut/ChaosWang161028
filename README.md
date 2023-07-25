@@ -5,6 +5,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByChaos&theme=xcode" />
 </div>
+![](https://raw.githubusercontent.com/CodeByChaos/CodeByChaos/main/assets/github-contribution-grid-snake.svg)
 
 
 
