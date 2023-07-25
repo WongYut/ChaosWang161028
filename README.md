@@ -1,11 +1,10 @@
-### Hi there 👋
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeByChaos&show_icons=true&theme=tokyonight" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByChaos" />
 </div>
-<div align="center">
+<div align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByChaos" />
 </div>
 <div align="center">
