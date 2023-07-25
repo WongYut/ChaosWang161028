@@ -3,7 +3,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByChaos" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByChaos" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByChaos&theme=xcode" />
 </div>
 
