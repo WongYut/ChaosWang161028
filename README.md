@@ -6,7 +6,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByChaos&theme=xcode" />
 </div>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/CodeByChaos/CodeByChaos/assets/github-contribution-grid-snake.svg" /></div>
-
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
 
 
 
