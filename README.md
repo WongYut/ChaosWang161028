@@ -1,5 +1,11 @@
 ### Hi there 👋
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CodeByChaos&show_icons=true&theme=tokyonight" /> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeByChaos&show_icons=true&theme=tokyonight" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-tian-hub" />
+</div>
+
 
 <!--
 **CodeByChaos/CodeByChaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
