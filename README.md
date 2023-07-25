@@ -2,9 +2,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CodeByChaos&show_icons=true&theme=midnight-purple&count_private=true" />
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByChaos&theme=xcode" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeByChaos&theme=xcode&count_private=true" />
 </div>
-
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/CodeByChaos/CodeByChaos/assets/github-contribution-grid-snake.svg" /></div>
 
 
 <!--
