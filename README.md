@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeByChaos&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeByChaos&show_icons=true&theme=tokyonight&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByChaos" />
 </div>
 <div align="center">
@@ -7,7 +7,6 @@
 </div>
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/CodeByChaos/CodeByChaos/assets/github-contribution-grid-snake.svg" /></div>
 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
-![Chaos's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeByChaos&count_private=true)
 
 
 <!--
